@@ -21,7 +21,7 @@ case "$selectos" in
 	3) selectos="https://image.yha.my.id/2:/windows2016.gz";;
 	4) selectos="https://image.yha.my.id/2:/windows2019.gz";;
 	5) selectos="https://image.yha.my.id/2:/windows2022.gz";;
-  6) selectos="http://128.199.194.217/files/spectre.gz";;
+  	6) selectos="http://128.199.194.217/files/spectre.gz";;
 	*) echo "pilihan salah"; exit;;
 esac
 
